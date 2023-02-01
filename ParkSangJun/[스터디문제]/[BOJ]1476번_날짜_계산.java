@@ -20,7 +20,7 @@ public class Main {
 			s++;
 			m++;
 			if(e>15)
-				e=1;
+				e=1; 
 			
 			if(s>28)
 				s=1;
