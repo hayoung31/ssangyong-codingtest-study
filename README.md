@@ -22,7 +22,7 @@
 |[N번째 큰 수](https://www.acmicpc.net/problem/2693)|백준|수학|브론즈1|
 |[소수 찾기](https://www.acmicpc.net/problem/1978)|백준|수학|실버5|
 |[N과 M (1)](https://www.acmicpc.net/problem/15649)|백준|브루트 포스-N과 M|실버3|
-|[미로 탐색](https://code.plus/course/51)|백준|큐와 그래프|실버1|
+|[미로 탐색](https://www.acmicpc.net/problem/2178)|백준|큐와 그래프|실버1|
 
 
 <br/>
