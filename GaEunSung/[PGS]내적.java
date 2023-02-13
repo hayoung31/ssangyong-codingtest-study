@@ -5,5 +5,6 @@ class Solution {
            answer += a[i]*b[i];
         }
         return answer;
+        //  두배열의 같은 인덱스를 가진 것끼리 곱해서 합을 도출
     }
 }

@@ -36,7 +36,7 @@ public class Main2 {
 				arr[cnt] = i;
 				
 				permutation(visited, arr, cnt+1);
-				visited[i] = true;
+				visited[i] = true;   // 
 			}
 		}
 	}
