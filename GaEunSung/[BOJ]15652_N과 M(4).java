@@ -1,7 +1,7 @@
 import java.util.Scanner;
  /*
   *비내림차순
-  * 
+  *중복가능
   * 
   */
 public class Main {
