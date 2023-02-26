@@ -30,6 +30,7 @@ public class BOJ_15651_N과M_3 {
 				sb.append(arr[i]).append(' ');
 			}
 			sb.append('\n');
+			
 			return;
 		}
  
