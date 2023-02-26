@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 public class BOJ_15651_N과M_3 {
 	
 	public static int[] arr;
-	public static int N, M;
+	public static int N, M; 
 	public static StringBuilder sb = new StringBuilder();
  
 	public static void main(String[] args) throws IOException {
