@@ -18,12 +18,18 @@
  ##  🔥 이번 주 문제
 |문제 이름|출처|주제|난이도|
 |:-------:|:--------:|:-------:|:-------:|
+|[SQL고득점kit (JOIN 11문제)](https://school.programmers.co.kr/learn/courses/30/parts/17046)|프로그래머스|JOIN|LV2~LV5|
+
+ 
+ <!--
+|문제 이름|출처|주제|난이도|
+|:-------:|:--------:|:-------:|:-------:|
 |[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|프로그래머스|2022 KAKAO BLIND RECRUITMENT|LV 1|
 |[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|백준|수학|브론즈1|
 |[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|백준|다이나믹 프로그래밍|실버3|
 |[N과 M (4)](https://www.acmicpc.net/problem/15652)|백준|브루트 포스 - N과 M|실버3|
 |[스타트와 링크](https://www.acmicpc.net/problem/14889)|백준|브루트 포스 - 재귀|실버2|
-
+-->
 
 <br/>
 <br/> 
@@ -58,6 +64,8 @@
 |5</br>주차|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644)|[피보나치 수 2](https://www.acmicpc.net/problem/2693https://www.acmicpc.net/problem/2748)|[괄호](https://www.acmicpc.net/problem/9012)|[N과 M (2)](https://www.acmicpc.net/problem/15650)|[이전 순열](https://www.acmicpc.net/problem/10973)|
 ||월간 코드 챌린지 시즌1|다이나믹 프로그래밍|스택|브루트 포스-N과 M|브루트 포스 - 순열|
 |6</br>주차|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)|[일곱 난쟁이](roblem/2309)|[1](https://www.acmicpc.net/problem/4375)|[N과 M (3)](https://www.acmicpc.net/problem/15651)|[암호 만들기](https://www.acmicpc.net/problem/1759)|
-||정렬|브루트 포스|수학|브루트 포스 - N과 M|루트 포스 - 재귀|
+||정렬|브루트 포스|수학|브루트 포스 - N과 M|브루트 포스 - 재귀|
+|7</br>주차|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|[N과 M (4)](https://www.acmicpc.net/problem/15652)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|
+||2022 KAKAO BLIND RECRUITMENT|수학|다이나믹 프로그래밍|브루트 포스 - N과 M|브루트 포스 - 재귀|
 
 
