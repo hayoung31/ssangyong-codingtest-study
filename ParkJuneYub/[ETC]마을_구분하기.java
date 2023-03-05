@@ -12,7 +12,7 @@ import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 public class Main {
-	
+	// dfs 문제
 	static int N;
 	static int[][] map;
 	static boolean[][] visited;
