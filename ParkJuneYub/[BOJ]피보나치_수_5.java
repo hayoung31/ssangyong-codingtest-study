@@ -1,3 +1,6 @@
+걸린 시간 : 4분
+레벨 : 브론즈 2
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
