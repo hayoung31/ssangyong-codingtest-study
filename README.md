@@ -16,20 +16,16 @@
 <br/>
 
  ##  🔥 이번 주 문제
-|문제 이름|출처|주제|난이도|
-|:-------:|:--------:|:-------:|:-------:|
-|[SQL고득점kit (JOIN 11문제)](https://school.programmers.co.kr/learn/courses/30/parts/17046)|프로그래머스|JOIN|LV2~LV5|
 
- 
- <!--
+
 |문제 이름|출처|주제|난이도|
 |:-------:|:--------:|:-------:|:-------:|
-|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|프로그래머스|2022 KAKAO BLIND RECRUITMENT|LV 1|
-|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|백준|수학|브론즈1|
-|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|백준|다이나믹 프로그래밍|실버3|
-|[N과 M (4)](https://www.acmicpc.net/problem/15652)|백준|브루트 포스 - N과 M|실버3|
-|[스타트와 링크](https://www.acmicpc.net/problem/14889)|백준|브루트 포스 - 재귀|실버2|
--->
+|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|프로그래머스|연습문제|LV 1|
+|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|프로그래머스|연습문제|LV 1|
+|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|백준|구현 문자열|브론즈1|
+|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|백준|재귀함수|브론즈 2|
+|[동전 0](https://www.acmicpc.net/problem/11047)|백준|그리디 알고리즘|실버4|
+
 
 <br/>
 <br/> 
@@ -67,5 +63,8 @@
 ||정렬|브루트 포스|수학|브루트 포스 - N과 M|브루트 포스 - 재귀|
 |7</br>주차|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[2×n 타일링 2](https://www.acmicpc.net/problem/11727)|[N과 M (4)](https://www.acmicpc.net/problem/15652)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|
 ||2022 KAKAO BLIND RECRUITMENT|수학|다이나믹 프로그래밍|브루트 포스 - N과 M|브루트 포스 - 재귀|
+|7</br>주차|[SQL고득점kit (JOIN 11문제)](https://school.programmers.co.kr/learn/courses/30/parts/17046)||||||
+||프로그래머스 SQL고득점kit||||||||||||||
+||
 
 
