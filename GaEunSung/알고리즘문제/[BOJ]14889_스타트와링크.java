@@ -1,8 +1,5 @@
 import java.util.Scanner;
- /*
-  * 중복가능 
-  * for 문에서 사용할수 있는 i값들의 조합이 다 사용되서 배열에 들어갈수있음
-  */
+
 public class Main {
 	
 	static int N;
