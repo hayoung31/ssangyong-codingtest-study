@@ -1,0 +1,41 @@
+select D.department_id AS 부서번호
+        , D.department_name AS 부서명 
+        , L.city || ' ' || L.street_address AS 부서주소
+        , MGR.first_name || ' ' || MGR.last_name AS 부서장성명
+        , EMP.employee_id AS 사원번호
+        , EMP.ENAME AS 사원명
+        , EMP.GENDER AS 성별
+        , EMP.AGE AS 나이
+        , EMP.ANUALSAL AS 연봉
+        , T.TAXPERCENT AS 연봉소득세액
+        , EMP.ANUALSAL - B.AVG_SALARY AS 부서내연봉차액
+        , EMP.DEPT_RANK AS 부서내연봉등수
+        , EMP.TOTAL_RANK AS 전체연봉등수
+        
+  from  employees MGR JOIN departments D
+  ON D.manager_id = MGR.employee_id
+  JOIN locations L
+  on D.location_id = L.location_id
+  RIGHT JOIN 
+  (
+    select department_id,employee_id, salary, commission_pct
+         , first_name || ' ' || last_name AS ENAME
+         , case when substr(jubun, 7, 1) in ('1','3') then '남' else '여' end AS GENDER
+         , extract(year from sysdate) - ( to_number(substr(jubun,1,2)) + case when substr(jubun,7,1) in ('1','2') then 1900 else 2000 end ) + 1  AS AGE
+         , nvl(salary + (salary * commission_pct),salary)*12 AS ANUALSAL
+         , rank() over(partition by department_id
+                        order by salary desc) AS DEPT_RANK
+         , rank() over(order by salary desc) AS TOTAL_RANK
+    from employees E 
+  )EMP
+  ON D.department_id = EMP.department_id
+   FULL JOIN 
+    (
+     select department_id , trunc(avg(nvl(salary + (salary * commission_pct),salary)*12)) AS AVG_SALARY
+     from employees
+     group by department_id
+    ) B
+    ON EMP.department_id = B.department_id
+    JOIN tbl_taxindex T 
+    ON nvl( EMP.salary + (EMP.salary * EMP.commission_pct), EMP.salary )*12 between T.lowerincome and T.highincome
+    ORDER BY 1;
