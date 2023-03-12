@@ -14,7 +14,7 @@ public class Main {
 		numArr[0] = 0;
 		numArr[1] = 1;
 		
-		for(int i = 2; i<=n; i++) {
+		for(int i = 2; i<=n; i++) { 
 			numArr[i] = numArr[i-1] + numArr[i-2];
 		}
 		System.out.println(numArr[n]);
