@@ -20,17 +20,16 @@
 
 |문제 이름|출처|주제|난이도|
 |:-------:|:--------:|:-------:|:-------:|
-|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|프로그래머스|연습문제|LV 1|
-|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|프로그래머스|연습문제|LV 1|
-|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|백준|구현 문자열|브론즈1|
-|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|백준|재귀함수|브론즈 2|
-|[동전 0](https://www.acmicpc.net/problem/11047)|백준|그리디 알고리즘|실버4|
+|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|프로그래머스|연습문제|LV 1|
+|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|백준|구현|실버5|
+|[색종이](https://www.acmicpc.net/problem/2563)|백준|구현 문자열|실버5|
+|[블랙잭](https://www.acmicpc.net/problem/2798)|백준|브루트포스 알고리즘|브론즈2|
+|[수 정렬하기](https://www.acmicpc.net/problem/2750)|백준|구현|브론즈2|
 
 
 <br/>
 <br/> 
-<br/>
-<br/>
+
 
  ## ✏️ 스터디 방법
 
@@ -65,6 +64,9 @@
 ||2022 KAKAO BLIND RECRUITMENT|수학|다이나믹 프로그래밍|브루트 포스 - N과 M|브루트 포스 - 재귀|
 |7</br>주차|[SQL고득점kit (JOIN 11문제)](https://school.programmers.co.kr/learn/courses/30/parts/17046)||||||
 ||프로그래머스 SQL고득점kit||||||||||||||
-||
+|8</br>주차|[x만큼 간격이 있는 n개의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|[핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|[피보나치 수 5](https://www.acmicpc.net/problem/10870)|[동전 0](https://www.acmicpc.net/problem/11047)||
+||연습문제|연습문제|구현 문자열|재귀함수|그리디 알고리즘|
+
+
 
 
