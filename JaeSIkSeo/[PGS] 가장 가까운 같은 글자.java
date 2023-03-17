@@ -22,5 +22,5 @@ public class PGS_가장가까운같은글자 {
         }
         return answer;
     }
-
+ 
 }
