@@ -36,7 +36,7 @@ public class Main {
 	    int cnt = 0; // 총 동전 갯수
 		
 	    for (int coins : coin){
-	    	if(coins <= K) {		//
+	    	if(coins <= K) {		// 없어도 답은 나오지만 남은 금액보다 동전이 클 때 불필요하는 것을 막기 위해 설정
 		        cnt += (K/coins);	// 금액을 큰 동전부터 깎아내려감 K를 나눈 몫이 사용가능한 해당 값의 동전이 최대로 쓰일 수 있는 갯수
 		        K %= coins;			// 위에서 몫은 다 하고 남은 나머지를 다시 K값에 대입 그리고 과정을 반복
 	    	}    
@@ -48,5 +48,4 @@ public class Main {
 
 }
 
-// 그리디 알고리즘에 대한 설명 https://jellili.tistory.com/23
-// 
+// 그리디 알고리즘에 대한 쉬운 설명이 담긴 블로그 https://jellili.tistory.com/23
