@@ -22,7 +22,7 @@
 |:-------:|:--------:|:-------:|:-------:|
 |[2차원 배열 다루어 보기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|프로그래머스|위클리 챌린지|LV 2|
 |[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|프로그래머스|월간 코드 챌린지 시즌1|LV 2|
-|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|프로그래머스|위클리 챌린지|LV 2|
+
 
 
 
