@@ -1,3 +1,6 @@
+걸린 시간 : --
+레벨 : LV.2
+
 import java.util.ArrayList;
 import java.util.List;
 
