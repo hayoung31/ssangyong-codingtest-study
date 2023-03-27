@@ -22,7 +22,7 @@
 |:-------:|:--------:|:-------:|:-------:|
 |[트럭 주차](https://www.acmicpc.net/problem/2979)|백준|구현|브론즈 2|
 |[영화감독 숌](https://www.acmicpc.net/problem/1436)|백준|브루트포스 알고리즘|실버 5|
-|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|프로그래머스|2021 카카오 채용연계형 인턴십|LV 2|
+|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|프로그래머스|2021 카카오 채용연계형 인턴십|LV 2||
 
 
 
