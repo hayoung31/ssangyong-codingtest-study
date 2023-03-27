@@ -20,8 +20,10 @@
 
 |문제 이름|출처|주제|난이도|
 |:-------:|:--------:|:-------:|:-------:|
-|[2차원 배열 다루어 보기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|프로그래머스|위클리 챌린지|LV 2|
-|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|프로그래머스|월간 코드 챌린지 시즌1|LV 2|
+|[트럭 주차](https://www.acmicpc.net/problem/2979)|백준|구현|브론즈 2|
+|[영화감독 숌](https://www.acmicpc.net/problem/1436)|백준|브루트포스 알고리즘|실버 5|
+|[거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|프로그래머스|2021 카카오 채용연계형 인턴십|LV 2|
+
 
 
 
@@ -67,6 +69,9 @@
 ||연습문제|연습문제|구현 문자열|재귀함수|그리디 알고리즘|
 |10</br>주차|[가장 가까운 같은 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[색종이](https://www.acmicpc.net/problem/2563)|[블랙잭](https://www.acmicpc.net/problem/2798)|[수 정렬하기](https://www.acmicpc.net/problem/2750)||
 ||연습문제|구현|구현 문자열|브루트포스 알고리즘|구현|
+|11</br>주차|[2차원 배열 다루어 보기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|[삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|
+||위클리 챌린지|월간 코드 챌린지 시즌 1|
+
 
 
 
