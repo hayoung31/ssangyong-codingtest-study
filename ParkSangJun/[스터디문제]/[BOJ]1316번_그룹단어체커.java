@@ -22,7 +22,7 @@ public class Main {
 	}
  
 	public static boolean check() throws IOException {
-		boolean[] check = new boolean[26];
+		boolean[] check = new boolean[26]; 
 		int prev = 0;
 		String str = br.readLine();
 		
@@ -31,7 +31,7 @@ public class Main {
 			
 			if (prev != now) {		
 				
-				if ( check[now - 'a'] == false ) {
+				if ( check[now - 'a'] == false ) { 
 					check[now - 'a'] = true;
 					prev = now;
 				}
@@ -67,12 +67,12 @@ public static void main(String[] args) throws IOException {
 		boolean[] check = new boolean [26];
 		int bf = 0;
 		for(int j=0; j<str.length(); j++) {
-			int now = str.charAt(j);
+			int af = str.charAt(j);
 			
-			if(bf != now) {
-				if(check[now - 'a'] == false) {
-					check[now - 'a'] = true;
-					bf = now;
+			if(bf != af) {
+				if(check[af - 'a'] == false) {
+					check[af - 'a'] = true;
+					bf = af;
 				}
 				else {
 					tf = false;
